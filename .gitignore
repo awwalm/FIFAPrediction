@@ -5,6 +5,7 @@
 *.ipynb_checkpoints
 *.ipynb
 *.bat
+FIFAPrediction.ipynb
 
 
 # Just the SampleSubmission.csv file is required for preemptive execution.
