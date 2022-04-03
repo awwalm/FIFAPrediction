@@ -11,7 +11,6 @@ from sklearn.metrics import mean_squared_error
 from sklearn import metrics
 from math import sqrt
 import matplotlib.pyplot as plt
-%matplotlib inline
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import cross_val_predict
 from sklearn.model_selection import cross_val_score

@@ -8,8 +8,6 @@ from sklearn import neighbors
 from sklearn.metrics import mean_squared_error 
 from math import sqrt
 import matplotlib.pyplot as plt
-%matplotlib inline
-
 from numpy import asarray
 from numpy import savetxt
 
