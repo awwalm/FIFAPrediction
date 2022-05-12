@@ -30,7 +30,7 @@ This is a <b>supervised learning</b> exercise. The report culminates with a summ
 performance of each algorithm in predicting the overall ratings.
 
 <hr>
-<sub>
+<sub><sup>
 
 [<sup id="fn1">1</sup>](#fn1-back) The FIFA video games consist of several ratings for each player. 
 The aggregate of a given set of ratings is referred to as the overall rating, 
@@ -39,7 +39,7 @@ which is what this research intends to investigate.
 [<sup id="fn2">2</sup>](#fn2-back) Goalkeeprs are precluded from this report as thier characteristics 
 are completely different from outfield players.
 
-</sub>
+</sup></sub>
 
 <hr>
 
