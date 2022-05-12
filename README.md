@@ -1,6 +1,6 @@
 # FIFA Overall Player Ratings Prediction Using Regression Methods
 
-Awwal Mohammed <br>
+Awwal Mohammed <br/>
 International University of Malaya-Wales &copy; 2020-2022
 
 ## Introduction
@@ -29,19 +29,18 @@ This report aims to tackle the following:
 This is a <b>supervised learning</b> exercise. The report culminates with a summary of the 
 performance of each algorithm in predicting the overall ratings.
 
-<hr>
-<sub> <sup>
+<hr/>
+<sub><sup>
 
 [<sup id="fn1">1</sup>](#fn1-back) The FIFA video games consist of several ratings for each player. 
 The aggregate of a given set of ratings is referred to as the overall rating, 
 which is what this research intends to investigate.
-<br>
+<br/>
 [<sup id="fn2">2</sup>](#fn2-back) Goalkeeprs are precluded from this report as thier characteristics 
 are completely different from outfield players.
 
 </sup> </sub>
-
-<hr>
+<hr/>
 
 
 ## Preprocessing
@@ -119,7 +118,7 @@ then convert into SQLite format (<a href="https://www.rebasedata.com">Rebasedata
 
 This is a visual representation of the procedure as described, 
 which <code><a href="TrimFeatures.py">TrimFeatures.py</a></code> implements:
-<hr>
+<hr/>
 
 ![png](outputs/models/datasettrimmingprocess.png)
 
