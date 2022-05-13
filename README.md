@@ -22,19 +22,18 @@ This report aims to tackle the following:
     <ol>
     <li>
         Predicting FIFA overall ratings of outfield players from <i>FIFA 20</i>, 
-        and crosschecking it against existing results[^2].</li>
+        and crosschecking it against existing results[^2]. </li>
     <li>Identifying the feature(s) that influence(s) the ratings the most.</li>
     </ol>
 
 This is a <b>supervised learning</b> exercise. The report culminates with a summary of the 
 performance of each algorithm in predicting the overall ratings.
 
-<hr/>
 
 [^1]:  The FIFA video games consist of several ratings for each player. 
   The aggregate of a given set of ratings is referred to as the overall rating, 
   which is what this research intends to investigate.
-<br/>
+
 [^2]:  Goalkeeprs are precluded from this report as thier characteristics 
   are completely different from outfield players.
 
