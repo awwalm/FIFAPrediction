@@ -5,9 +5,9 @@ International University of Malaya-Wales &copy; 2020-2022
 
 ## Introduction
 
-
+<!-- see footnote on clarification of overall ratings in FIFA -->
 This report covers basic approaches to using <b>easily-understood machine learning techniques</b> to predict 
-"overall player ratings" [<sup id="fn1-back">1</sup>](#fn1 "see footnote on clarification of overall ratings in FIFA") 
+"overall player ratings"[^1].
 based on data obtained from the FIFA video games, with initial inference from real life football data. 
 
 <b>KNN Regression, Multiple Linear Regression, Voting Regressor, and Gradient Boosting Regressor</b> 
@@ -21,7 +21,7 @@ For example, Cristiano Ronaldo may be rated 93 while Lionel Messi may be rated 9
 This report aims to tackle the following:
     <ol>
     <li>
-        Predicting FIFA overall ratings of outfield players[<sup id="fn2-back">2</sup>](#fn2) from <i>FIFA 20</i>, 
+        Predicting FIFA overall ratings of outfield players[^note] from <i>FIFA 20</i>, 
         and crosschecking it against existing results.</li>
     <li>Identifying the feature(s) that influence(s) the ratings the most.</li>
     </ol>
@@ -31,12 +31,12 @@ performance of each algorithm in predicting the overall ratings.
 
 <hr/>
 
-[<sup id="fn1">1</sup>](#fn1-back) The FIFA video games consist of several ratings for each player. 
-The aggregate of a given set of ratings is referred to as the overall rating, 
-which is what this research intends to investigate.
+[^1]:  The FIFA video games consist of several ratings for each player. 
+  The aggregate of a given set of ratings is referred to as the overall rating, 
+  which is what this research intends to investigate.
 <br/>
-[<sup id="fn2">2</sup>](#fn2-back) Goalkeeprs are precluded from this report as thier characteristics 
-are completely different from outfield players.
+[^2]:  Goalkeeprs are precluded from this report as thier characteristics 
+  are completely different from outfield players.
 
 <hr/>
 
