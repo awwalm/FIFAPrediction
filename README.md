@@ -21,13 +21,15 @@ For example, Cristiano Ronaldo may be rated 93 while Lionel Messi may be rated 9
 This report aims to tackle the following:
     <ol>
     <li>
-        Predicting FIFA overall ratings of outfield players[^2] from <i>FIFA 20</i>, 
+        Predicting FIFA overall ratings of outfield players[^note] from <i>FIFA 20</i>, 
         and crosschecking it against existing results.</li>
     <li>Identifying the feature(s) that influence(s) the ratings the most.</li>
     </ol>
 
 This is a <b>supervised learning</b> exercise. The report culminates with a summary of the 
 performance of each algorithm in predicting the overall ratings.
+
+<hr/>
 
 [^1]:  The FIFA video games consist of several ratings for each player. 
   The aggregate of a given set of ratings is referred to as the overall rating, 
@@ -859,7 +861,3 @@ The KNN regression model came out with an 81.66% accuracy; MLR, 88.93%; voting r
 
 <b>The variable importance graph from the GBR algorithm shows that monetary features like wage, value, 
 and players’ age, contribute the most to overall player ratings.</b>
-
-<hr>
-
-
