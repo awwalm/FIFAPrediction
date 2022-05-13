@@ -864,10 +864,10 @@ and players’ age, contribute the most to overall player ratings.</b>
 <hr>
 
 ## Task Lists
-- [x] #1
+- [x] https://github.com/awwalm/FIFAPrediction/issues/1
 - [ ] https://github.com/awwalm/FIFAPrediction/issues/2
 
 <hr>
 
-<b style="font-size: 32px;">Footnotes</b>
+## Footnotes
 <!-- Footnotes formatted by GitHub to appear here -->
