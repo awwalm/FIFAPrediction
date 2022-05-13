@@ -7,7 +7,7 @@ International University of Malaya-Wales &copy; 2020-2022
 
 <!-- see footnote on clarification of overall ratings in FIFA -->
 This report covers basic approaches to using <b>easily-understood machine learning techniques</b> to predict 
-"overall player ratings"[^1].
+"overall player ratings"<span title="see footnote on clarification of overall ratings in FIFA">[^1]</span>.
 based on data obtained from the FIFA video games, with initial inference from real life football data. 
 
 <b>KNN Regression, Multiple Linear Regression, Voting Regressor, and Gradient Boosting Regressor</b> 
