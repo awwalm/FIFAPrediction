@@ -863,5 +863,5 @@ and players’ age, contribute the most to overall player ratings.</b>
 
 <hr>
 
-<b style="font-size: 32pt">Footnotes</b>
+<b style="font-size: 32px">Footnotes</b>
 <!-- Footnotes formatted by GitHub to appear here -->
