@@ -860,3 +860,8 @@ The KNN regression model came out with an 81.66% accuracy; MLR, 88.93%; voting r
 
 <b>The variable importance graph from the GBR algorithm shows that monetary features like wage, value, 
 and players’ age, contribute the most to overall player ratings.</b>
+
+<hr>
+
+# Footnotes
+<!-- To be formatted by GitHub to appear here -->
