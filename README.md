@@ -7,14 +7,14 @@ International University of Malaya-Wales &copy; 2020-2022
 
 <!-- see footnote on clarification of overall ratings in FIFA -->
 This report covers basic approaches to using <b>easily-understood machine learning techniques</b> to predict 
-"overall player ratings"<span title="see footnote on clarification of overall ratings in FIFA">[^1]</span>.
+"overall player ratings"<span title="see footnote on clarification of overall ratings in FIFA">[^1]</span>
 based on data obtained from the FIFA video games, with initial inference from real life football data. 
 
 <b>KNN Regression, Multiple Linear Regression, Voting Regressor, and Gradient Boosting Regressor</b> 
 algorithmic models are used in this research. Evaluation methods such as <b>Lasso, Ridge, Cross-Validation, 
 and Multiple KNN value comparison</b> are explored.
 
-FIFA ratings are an aggregate, weighted metric which serves as a player’s overall beneficiary. 
+FIFA ratings refer to the aggregate, weighted metric which serves as a player’s overall beneficiary. 
 It lies within the range of 0-99 with the provision that the higher the number, the better. 
 For example, Cristiano Ronaldo may be rated 93 while Lionel Messi may be rated 94.
 
@@ -29,7 +29,7 @@ This report aims to tackle the following:
 This is a <b>supervised learning</b> exercise. The report culminates with a summary of the 
 performance of each algorithm in predicting the overall ratings.
 
-
+<!-- Footnotes -->
 [^1]:  The FIFA video games consist of several ratings for each player. 
   The aggregate of a given set of ratings is referred to as the overall rating, 
   which is what this research intends to investigate.
@@ -46,8 +46,8 @@ performance of each algorithm in predicting the overall ratings.
 
 While this research focuses on FIFA 20, there's an additional dataset introduced to cover grounds 
 for investigative knowledge bias. One dataset has information pertaining to real life European football players 
-statistics for inference (<b>You can completely ignore this, 
-and subsequent related activities if you're not curious about it.</b>),
+statistics for inference (<b>you can completely ignore this, 
+and subsequent related activities if you're not curious about it</b>),
 while the other contains data to be used for training and learning.
 
 1. __European Soccer Dataset (Optional Inferential Dataset)__
