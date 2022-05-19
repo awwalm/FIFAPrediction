@@ -21,8 +21,8 @@ For example, Cristiano Ronaldo may be rated 93 while Lionel Messi may be rated 9
 This report aims to tackle the following:
     <ol>
     <li>
-        Predicting FIFA overall ratings of outfield players from <i>FIFA 20</i>, 
-        and crosschecking it against existing results[^2]. </li>
+        Predicting FIFA overall ratings of outfield players[^2] from <i>FIFA 20</i>, 
+        and crosschecking it against existing results.</li>
     <li>Identifying the feature(s) that influence(s) the ratings the most.</li>
     </ol>
 
